@@ -1,24 +1,8 @@
-h1{
-    color: rgb(138, 219, 31);
-    font-size: 25px;
-    
-    }
-    
-    
-    p{
-    
-        color: rgb(231, 19, 19)); font-family: 'Courier New', Courier, monospace;
-    
-    
-    
-    
-    }
-    
-    
-    
-    img{
-    border: 2px solid rgb(26, 109, 216);
-    
-    
-    }
+body{
+background-image: url(peakpx\ \(3\).jpg);
+background-size: cover;
+background-position: center;
+background-repeat:no-repeat ;
+color: azure;
+}
     
