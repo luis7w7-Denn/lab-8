@@ -5,6 +5,28 @@ html, body {
 }
 
 
+nav{
+
+text-align: center;
+margin-top: 30px;
+font size: 30px;
+}
+
+
+nav a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 20px; 
+    padding: 10px 20px; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 5px; 
+    margin: 0 15px; 
+}
+
+
+
+
+
 
 body{
 background-image: url(peakpx\ \(3\).jpg);
@@ -27,13 +49,12 @@ margin-top: 20px;
 }
 
 p {
-    text-align: center; /* Centra el texto */
-    font-family: 'Arial', sans-serif; /* Cambia a una fuente moderna, puedes elegir otra */
-    color: white; /* Cambia el color de la letra a blanco */
-    font-size: 1.2em; /* Ajusta el tamaño de la fuente */
-    max-width: 800px; /* Limita el ancho del párrafo para que no sea demasiado largo */
-    margin: 20px auto; /* Centra el párrafo y le da margen superior e inferior */
-    line-height: 1.5; /* Mejora la legibilidad al aumentar el espacio entre líneas */
+    text-align: center; 
+    font-family: 'Arial', sans-serif;
+    color: white; 
+    font-size: 1.2em; 
+    margin: 20px auto; 
+    line-height: 1.5; 
 }
 
 
