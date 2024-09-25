@@ -1,4 +1,8 @@
-
+html, body {
+    height: 100%; /* Asegura que html y body ocupen toda la altura de la ventana */
+    margin: 0; /* Elimina márgenes por defecto */
+    padding: 0; /* Elimina padding por defecto */
+}
 
 
 
@@ -17,7 +21,21 @@ h1{
 text-align: center;
 font-family: sans-serif;
 color: white;
-font-size: 3px;
+font-size: 30px;
 margin-top: 20px;
 
 }
+
+p {
+    text-align: center; /* Centra el texto */
+    font-family: 'Arial', sans-serif; /* Cambia a una fuente moderna, puedes elegir otra */
+    color: white; /* Cambia el color de la letra a blanco */
+    font-size: 1.2em; /* Ajusta el tamaño de la fuente */
+    max-width: 800px; /* Limita el ancho del párrafo para que no sea demasiado largo */
+    margin: 20px auto; /* Centra el párrafo y le da margen superior e inferior */
+    line-height: 1.5; /* Mejora la legibilidad al aumentar el espacio entre líneas */
+}
+
+
+
+
